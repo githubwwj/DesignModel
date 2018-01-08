@@ -12,4 +12,9 @@ public class MagincFactory extends AbstractFactory {
 		return new MagicStick();
 	}
 
+	public Food createFood() {
+		
+		return new Mushroom();
+	}
+
 }

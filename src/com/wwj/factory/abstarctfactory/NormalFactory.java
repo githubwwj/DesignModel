@@ -12,4 +12,9 @@ public class NormalFactory extends AbstractFactory {
 		return new Handgun();
 	}
 
+	public Food createFood() {
+		
+		return new Banana();
+	}
+
 }
