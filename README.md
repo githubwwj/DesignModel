@@ -1,14 +1,15 @@
 项目视频介绍 
 ===========
 
-|#|标题|视频地址|
+|#|设计模式|视频地址|
 |---|----|-----|
 |1|01-JAVA工厂设计模式|http://www.iqiyi.com/w_19rwlt63st.html|
 |2|02-JAVA抽象工厂设计模式|http://www.iqiyi.com/w_19rwlpr4eh.html|
 |3|03-JAVA抽象工厂和普通工厂优缺点比较|http://www.iqiyi.com/w_19rwlq544h.html|
 |4|04-JAVA简单工厂设计模式|http://www.iqiyi.com/w_19rz6iudt1.html|
 
-
+|#|JAVA反射|视频地址|
+|---|----|-----|
 |1|01_JAVA反射技术是什么|http://www.iqiyi.com/w_19rz34p3z5.html|
 
 
