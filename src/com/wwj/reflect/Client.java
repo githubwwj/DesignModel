@@ -6,7 +6,7 @@ public class Client {
 		
 		/**
 		 * 万事万物皆对象
-		 * 类也是对象
+		 * 类也是对象 java.lang.Class
 		 * 有两种不是面向对象的?
 		 * static 基本数据类型
 		 * int Integer
