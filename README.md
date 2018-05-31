@@ -18,6 +18,8 @@ http://note.youdao.com/noteshare?id=5d5449dea745ee33106d5d6a08a11bf5
 |1|01_JAVA反射技术是什么|http://www.iqiyi.com/w_19rz34p3z5.html|
 |2|02_JAVA动态加载类|https://www.iqiyi.com/w_19rz39p73x.html|
 |3|03_JAVA获取方法信息|https://www.iqiyi.com/w_19rz385a25.html|
+|4|04_JAVA反射获取类的属性和构造函数|http://www.iqiyi.com/w_19rz374d91.html|
+|5|05_通过JAVA反射操作方法|http://www.iqiyi.com/w_19rz3z9mpt.html|
 
 
 反射有道云笔记地址
