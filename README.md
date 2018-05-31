@@ -20,9 +20,15 @@ http://note.youdao.com/noteshare?id=5d5449dea745ee33106d5d6a08a11bf5
 |3|03_JAVA获取方法信息|https://www.iqiyi.com/w_19rz385a25.html|
 |4|04_JAVA反射获取类的属性和构造函数|http://www.iqiyi.com/w_19rz374d91.html|
 |5|05_通过JAVA反射操作方法|http://www.iqiyi.com/w_19rz3z9mpt.html|
+|6|06_通过JAVA反射对象属性赋值与泛型的本质|http://www.iqiyi.com/w_19rz3ykr29.html|
 
 
 反射有道云笔记地址
 http://note.youdao.com/noteshare?id=92f46c7e4fba822cb832f2880c47c63a
+
+
+|#|JAVA注解|视频地址|
+|---|----|-----|
+|1|01_为什么要学习JAVA的注解|http://www.iqiyi.com/w_19rz45rxed.html|
 
 
