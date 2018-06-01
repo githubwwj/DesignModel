@@ -30,7 +30,8 @@ http://note.youdao.com/noteshare?id=92f46c7e4fba822cb832f2880c47c63a
 |#|JAVA注解|视频地址|
 |---|----|-----|
 |1|01_为什么要学习JAVA的注解|http://www.iqiyi.com/w_19rz45rxed.html|
-|2|02_注解分类和自定义注解|http://www.iqiyi.com/w_19rz45rxed.html|
+|2|02_注解分类和自定义注解|http://www.iqiyi.com/w_19rz43qqqd.html|
+|3|03_通过注解和反射仿SQL语句|http://www.iqiyi.com/w_19rz43qqqd.html|
 
 JAVA注解有道云笔记地址
 http://note.youdao.com/noteshare?id=e3ae49b857a6b3cde8b152f534de86c0
