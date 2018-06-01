@@ -17,9 +17,10 @@ public @interface Description {
 //	String name();
 //	
 //	int age() default 0;
-	//当注解没有成员的时候成为表示注解
+	//当注解没有成员的时候成为标识注解
 	
 	//当注解只有一个成员的时候,它的默认值是value
 	String value();
 
 }
+		

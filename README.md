@@ -1,7 +1,7 @@
 项目视频介绍 
 ===========
 
-|#|设计模式|视频地址|
+|#|JAVA设计模式|视频地址|
 |---|----|-----|
 |1|01-JAVA工厂设计模式|http://www.iqiyi.com/w_19rwlt63st.html|
 |2|02-JAVA抽象工厂设计模式|http://www.iqiyi.com/w_19rwlpr4eh.html|
@@ -30,6 +30,7 @@ http://note.youdao.com/noteshare?id=92f46c7e4fba822cb832f2880c47c63a
 |#|JAVA注解|视频地址|
 |---|----|-----|
 |1|01_为什么要学习JAVA的注解|http://www.iqiyi.com/w_19rz45rxed.html|
+|2|02_注解分类和自定义注解|http://www.iqiyi.com/w_19rz45rxed.html|
 
 JAVA注解有道云笔记地址
 http://note.youdao.com/noteshare?id=e3ae49b857a6b3cde8b152f534de86c0
