@@ -31,9 +31,19 @@ http://note.youdao.com/noteshare?id=92f46c7e4fba822cb832f2880c47c63a
 |---|----|-----|
 |1|01_为什么要学习JAVA的注解|http://www.iqiyi.com/w_19rz45rxed.html|
 |2|02_注解分类和自定义注解|http://www.iqiyi.com/w_19rz43qqqd.html|
-|3|03_通过注解和反射仿SQL语句|http://www.iqiyi.com/w_19rz43qqqd.html|
+|3|03_通过注解和反射仿SQL语句|https://www.iqiyi.com/w_19rz4hdnj9.html|
 
 JAVA注解有道云笔记地址
 http://note.youdao.com/noteshare?id=e3ae49b857a6b3cde8b152f534de86c0
+
+|#|Android分包和类加载机制|视频地址|
+|---|----|-----|
+|1|01_Android分包可以解决什么问题|https://www.iqiyi.com/w_19rz4frvpl.html|
+|2|02_为什么琢磨JAVA中的ClassLoader|https://www.iqiyi.com/w_19rza0x7zh.html|
+|3|03_配置更好的开发环境|https://www.iqiyi.com/w_19rza02yc1.html|
+|4|04_JAVA类的加载机制上||
+
+Android分包和类加载机制有道云笔记地址
+http://note.youdao.com/noteshare?id=efc941330ee3b2ee21dfb0cb42058032
 
 
