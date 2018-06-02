@@ -10,7 +10,7 @@
 
 JAVA设计模式有道云笔记地址
 http://note.youdao.com/noteshare?id=5d5449dea745ee33106d5d6a08a11bf5
-
+<br/>
 
 
 |#|JAVA反射|视频地址|
@@ -25,6 +25,7 @@ http://note.youdao.com/noteshare?id=5d5449dea745ee33106d5d6a08a11bf5
 
 JAVA反射有道云笔记地址
 http://note.youdao.com/noteshare?id=92f46c7e4fba822cb832f2880c47c63a
+<br/>
 
 
 |#|JAVA注解|视频地址|
@@ -35,7 +36,7 @@ http://note.youdao.com/noteshare?id=92f46c7e4fba822cb832f2880c47c63a
 
 JAVA注解有道云笔记地址
 http://note.youdao.com/noteshare?id=e3ae49b857a6b3cde8b152f534de86c0
-\r\n
+<br/>
 
 
 |#|Android分包和类加载机制|视频地址|
@@ -47,5 +48,5 @@ http://note.youdao.com/noteshare?id=e3ae49b857a6b3cde8b152f534de86c0
 
 Android分包和类加载机制有道云笔记地址
 http://note.youdao.com/noteshare?id=efc941330ee3b2ee21dfb0cb42058032
-
+<br/>
 
