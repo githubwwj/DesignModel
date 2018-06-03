@@ -44,9 +44,13 @@ http://note.youdao.com/noteshare?id=e3ae49b857a6b3cde8b152f534de86c0
 |1|01_Android分包可以解决什么问题|https://www.iqiyi.com/w_19rz4frvpl.html|
 |2|02_为什么琢磨JAVA中的ClassLoader|https://www.iqiyi.com/w_19rza0x7zh.html|
 |3|03_配置更好的开发环境|https://www.iqiyi.com/w_19rza02yc1.html|
-|4|04_JAVA类的加载机制上||
+|4|04_熟悉JAVA类的加载机制|http://www.iqiyi.com/w_19rz9xyjsx.html|
+|5|05_JAVA类的ClassLoader|http://www.iqiyi.com/w_19rz9xykg9.html|
+|6|06_自定义JAVA的ClassLoader|http://www.iqiyi.com/w_19rz9ydvvd.html|
+|7|07_JAVA字节码文件加解密||
+
 
 Android分包和类加载机制有道云笔记地址
 http://note.youdao.com/noteshare?id=efc941330ee3b2ee21dfb0cb42058032
-<br> <br>  
+<br>   
 
