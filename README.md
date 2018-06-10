@@ -47,7 +47,14 @@ http://note.youdao.com/noteshare?id=e3ae49b857a6b3cde8b152f534de86c0
 |4|04_熟悉JAVA类的加载机制|http://www.iqiyi.com/w_19rz9xyjsx.html|
 |5|05_JAVA类的ClassLoader|http://www.iqiyi.com/w_19rz9xykg9.html|
 |6|06_自定义JAVA的ClassLoader|http://www.iqiyi.com/w_19rz9ydvvd.html|
-|7|07_JAVA字节码文件加解密||
+|7|07_JAVA字节码文件加解密|https://www.iqiyi.com/w_19rzanr4pt.html|
+|8|08_熟悉Android的类加载机制|https://www.iqiyi.com/w_19rzbr1uv1.html|
+|9|09_安装包存放在手机中的路径|https://www.iqiyi.com/w_19rzbklrot.html|
+|10|010_深入Android类加载机制和热修复原理|https://www.iqiyi.com/w_19rzbjvp1h.html|
+|11|11_Android热修复代码思路|https://www.iqiyi.com/w_19rz7swnup.html|
+|12|12_Android的SDCARD文件转移到内置卡中|https://www.iqiyi.com/w_19rz805fmh.html|
+|13|13_上一节课的两个错误|https://www.iqiyi.com/w_19rz7mkyt5.html|
+|14|14_Android通过热修复修复BUG|http://www.iqiyi.com/w_19rz7x67jl.html|
 
 
 Android分包和类加载机制有道云笔记地址
